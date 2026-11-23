@@ -1,0 +1,3 @@
+# Locally downloaded data and large extracted matrices
+data/paper5-wu2021/GEO/
+data/paper5-wu2021/*.tar.gz
